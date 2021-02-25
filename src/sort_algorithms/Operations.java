@@ -2,7 +2,7 @@ package sort_algorithms;
 import java.io.*;
 /**
  *
- * @author Johan Benavides Arias
+ * @author Yerson, Danielaa, Sergio, Diego
  */
 public class Operations {
     
