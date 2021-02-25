@@ -1,7 +1,7 @@
 package sort_algorithms;
 /**
- *@author Johan Benavides AriasYerson, Daniela, Nicolas, Diego, Sergio
- */
+ @author Johan Benavides AriasYerson, Daniela, Nicolas, Diego, 
+ 
 public class Sort_Algorithms {
     
     public int [] bubbleSort(int[] unsortedArray)//array parameter messy
