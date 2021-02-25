@@ -1,6 +1,6 @@
 package sort_algorithms;
 /**
- *@author Johan Benavides Arias
+ *@author Johan Benavides AriasYerson, Daniela, Nicolas, Diego, Sergio
  */
 public class Sort_Algorithms {
     
