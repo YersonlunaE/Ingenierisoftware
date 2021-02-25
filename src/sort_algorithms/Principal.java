@@ -2,7 +2,7 @@ package sort_algorithms;
 import java.io.*;
 /**
  *
- * @author Sergio,Daniela,Diego,Yerson,Nicolas
+ * @author Johan Benavides Arias
  */
 public class Principal {
 static BufferedReader br = new BufferedReader( new InputStreamReader( System.in ) );
